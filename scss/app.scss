@@ -1,0 +1,72 @@
+@import "settings";
+@import "foundation";
+
+.first-col{
+width:400px;
+height:600px;
+margin-top: 10px;
+background-color: skyblue;
+}
+
+.second-col{
+width:400px;
+height:600px;
+margin-top: 10px;
+background-color: gold;
+}
+
+.third-col{
+width:400px;
+height:600px;
+margin-top: 10px;
+background-color: greenyellow;
+}
+
+.forth-col{
+width:400px;
+height:600px;
+margin-top: 10px;
+background-color: plum;
+}
+
+.name{
+font-size:60px;
+color:snow;
+text-align:center;
+}
+
+#egghi{
+position:absolute;
+display:none;
+}
+
+#eggwalk1{
+display:none;
+}
+
+#eggwalk2{
+display:none;
+}
+
+
+#egghot1{
+display:none;
+}
+
+
+#egghot2{
+display:none;
+}
+
+
+#egghot3{
+display:none;
+}
+
+#eggfell{
+display:none;
+}
+
+#eggfell2{
+display:none;
+}
