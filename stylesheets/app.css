@@ -9777,7 +9777,7 @@ th.hide-for-touch {
 /* line 38, ../scss/app.scss */
 #egghi {
   position: absolute;
-  display: none;
+  display: block;
 }
 
 /* line 43, ../scss/app.scss */

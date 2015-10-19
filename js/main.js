@@ -1,10 +1,13 @@
-$(document).ready(function(){
-  
+
     $("#btn1").click(function(){
         
-        $("#egghi").toggle("slow"); 
+var angle = 0;
+setInterval(function(){
+      angle+=3;
+     $("#egghi").rotate(angle);
+},50);
+        
     });
-});
 
 
  $(document).ready(function(){
